@@ -64,7 +64,7 @@
 .elementor-940 .elementor-element.elementor-element-7a418fb form.elementor-form .elementor-field-group-email::after, .elementor-field-group-name::after, .elementor-field-group-phone::after, .elementor-field-group-message::after {
     position: absolute;
     left: 5px;
-    top: 33px;
+    top: 1px;
     bottom: 0px;
     width: 43px;
     height: 46px;
@@ -77,7 +77,7 @@
 .elementor-940 .elementor-element.elementor-element-7a418fb form.elementor-form .elementor-field-group-email::before, .elementor-field-group-name::before, .elementor-field-group-phone::before, .elementor-field-group-message::before  {
     position: absolute;
     left: 19px;
-    top: 41px;
+    top: 8px;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "";
