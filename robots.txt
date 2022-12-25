@@ -6,3 +6,4 @@ Disallow: /css/
 Disallow: /js/
 Disallow: /ajax/
 Disallow: /api/
+Sitemap: https://slagrisolar.com/sitemap.xml
